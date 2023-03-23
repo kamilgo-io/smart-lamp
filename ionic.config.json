@@ -1,0 +1,8 @@
+{
+  "name": "smart-lamp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "03583eed"
+}

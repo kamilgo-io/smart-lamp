@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "smart-lamp",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
